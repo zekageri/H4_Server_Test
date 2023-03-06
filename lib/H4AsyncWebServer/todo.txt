@@ -1,0 +1,2 @@
+tidy / remove data folders for examples
+rejig existing README to match class name changes... + finish
